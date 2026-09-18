@@ -1,0 +1,17 @@
+# 個人データ・実データ（子どもの成績・志望校・家庭状況など）は非公開
+# フォルダ名に関わらず、どの階層の 成果物/ 参考資料/ も除外する
+成果物/
+参考資料/
+
+# 作成初期の作業ログ・実際の会話ログ（実データ・自宅最寄り駅などを含む）
+フォルダ作成.md
+志望校戦略/過去の質問.md
+
+# ローカル環境依存・作業状態ファイル
+.claude/settings.local.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS/エディタの一時ファイル
+.DS_Store
+Thumbs.db
